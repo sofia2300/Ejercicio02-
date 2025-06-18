@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(60, 222, 228);
+}
+.parrafo {
+    width: 50%;
+    height: auto;
+    border: 2px solid;
+    padding: 10px 5px 10px 5px;
+}
+.centrado {
+    background-color: lightcoral;
+    color: blue;
+    margin: 0 auto;
+}
+.derecha {
+    background-color: greenyellow;
+    color: rgb(173, 14, 14);
+    margin-right: auto;
+}
+.izquierda {
+    background-color: mediumpurple;
+    margin-left: auto;
+}

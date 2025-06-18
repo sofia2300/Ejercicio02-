@@ -1,0 +1,28 @@
+.parrafo {
+    width: 50%;
+    height: 30%;
+}
+.primero {
+    border: 10px dashed;
+}
+.segundo {
+    border: 10px groove;
+}
+.tercero {
+    border: 12px ridge;
+}
+.cuarto {
+    border: 16px outset;
+}
+.quinto {
+    border: 10px double;
+}
+.sexto {
+    border: 14px groove
+}
+.septimo {
+   border: 16px inset;
+}
+.octavo {
+    border: 18px solid;
+}
